@@ -1,0 +1,1 @@
+sqlcmd -U sa -P Kulangotsakuko123 -S NS557114 -i s16_script.sql
